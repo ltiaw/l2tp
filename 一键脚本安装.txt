@@ -1,15 +1,3 @@
-Server IP: 103.137.35.64
-PSK      : klkl123
-Username : ltiaw
-Password : 5566ABC
-
-Server IP: 45.77.31.238
-PSK      : dsaslk21
-Username : ltiaw1
-Password : dsow@5855Aa
-
-
-
 yum install -y wget
 cat /dev/net/tun 
  # 检测是否支持TUN模块执行命令，返回结果File descriptor in bad state即可
